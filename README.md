@@ -142,22 +142,7 @@ _Add a screenshot of your dashboard here if uploading to GitHub._
 
 ## 🔍 Key Insights
 
-
-
-- 🎯 **Top Movie by ROI:** *Epic*  
-
-- 💸 **Top Genre by Revenue:** *Action*  
-
-- 🎭 **Top Actor by Revenue:** *Nicolas Cage ($587,400,000)*  
-
-- 📉 **Worst ROI Movie:** *Epic*  
-
-- 📅 **Highest grossing month:** *December*
-
-
-
-These insights show how genre combinations and actors influence movie revenue, guiding production and marketing decisions.
-
+This dashboard is designed to deliver dynamic, user-driven analysis. Instead of displaying fixed results, it allows users to interactively explore how performance metrics like ROI, genre popularity, and actor success change year by year. With slicers for genre, main actor, and release date, the dashboard becomes a powerful tool for discovering trends and generating customized insights.
 
 
 ---
