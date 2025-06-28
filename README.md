@@ -146,7 +146,13 @@ This dashboard is designed to deliver dynamic, user-driven analysis. Instead of 
 
 
 ---
+## 💡 Recommendations
 
+- Focus on the top-performing genres each year — they change, so check the slicer!
+- Use actors who consistently show high box office results.
+- Try to release movies during summer or holiday months when revenue is highest.
+- Consider mixing genres (like Action/Comedy) — they tend to do better overall.
+- Use this kind of dashboard regularly to guide future movie planning.
 
 
 ## 🧮 M Language Example
